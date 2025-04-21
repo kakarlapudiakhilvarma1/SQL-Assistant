@@ -4,7 +4,7 @@ Healthcare Database Request Assistant
 This application helps healthcare professionals process database-level service requests
 that cannot be handled through the user interface.
 
-Author: Raja
+Author: 
 Date: April 2025
 """
 
